@@ -24,6 +24,15 @@
   color: #121212;
 }
 
+.App-header h1 {
+  color: #0066fe;
+}
+
+.App-header p {
+  color: #121212;
+  font-size: calc(8px + 2vmin);
+}
+
 .App-link {
   color: #3694f2;
 }
